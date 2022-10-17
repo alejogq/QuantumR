@@ -1,14 +1,13 @@
  <table>
-  <tr>
+  <th>
    <img src="figs/logo_rise_eafit.png" alt="RiSE-group logo" align="center" height=80 width=280>
-  </tr>
-  <tr>
+  </th>
+  <th>
    <img src="figs/corum.png" alt="World Bank logo" align="center" height=90  width=200> 
-  </tr>
-  <tr>
+  </th>
+  <th>
     <img src="figs/hood_college.png" alt="World Bank logo" align="center" height=90  width=145>
-  </tr>
- 
+  </th>
 </table> 
 
 
