@@ -1,4 +1,4 @@
- <table class="border:1px solid black;margin-left:auto;margin-right:auto;">
+ <table class="centerTable">
    <th>
    <img src="figs/logo_rise_eafit.png" alt="RiSE-group logo" align="center" height=80 width=280>
   </th>
@@ -6,9 +6,10 @@
    <img src="figs/corum.png" alt="World Bank logo" align="center" height=90  width=200> 
   </th>
   <th>
-    <img src="figs/hood_college.png" alt="World Bank logo" align="center" height=90  width=145>
+  <img src="figs/hood_college.png" alt="World Bank logo" align="center" height=90  width=145>
   </th>
 </table> 
+
 
 
 
