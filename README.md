@@ -1,5 +1,5 @@
- <table>
-  <th>
+ <table class="border:1px solid black;margin-left:auto;margin-right:auto;">
+   <th>
    <img src="figs/logo_rise_eafit.png" alt="RiSE-group logo" align="center" height=80 width=280>
   </th>
   <th>
