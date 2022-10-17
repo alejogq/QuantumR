@@ -1,6 +1,6 @@
-<img src="figs/logo_rise_eafit.png" alt="RiSE-group logo" align="left" height=120 width=280>
-<img src="figs/corum.png" alt="World Bank logo" align="left" height=120  width=250>
-<img src="figs/hood_college.png" alt="World Bank logo" align="left" height=120  width=250>
+<img src="figs/logo_rise_eafit.png" alt="RiSE-group logo" align="left" height=100 width=280>
+<img src="figs/corum.png" alt="World Bank logo" align="left" height=100  width=250>
+<img src="figs/hood_college.png" alt="World Bank logo" align="left" height=100  width=220>
 
 
 <br/><br/>
